@@ -1,30 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86c56056-5492-4625-a3dc-ea41e298deb4" name="Default Changelist" comment="" />
+    <list default="true" id="9b8efd5b-489a-4bf6-9a51-a94b4ef4bf25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Compresor_Huffman_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Compresor_Huffman_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compresor Huffman/META-INF/Compresor Huffman.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compresor Huffman/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Huffman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Huffman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/SortByCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/SortByCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/HuffmanBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/HuffmanBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/HuffmanNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/HuffmanNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/MainWindow.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1lNBYtSmPyTHLhLVlpkkh6Fo01q" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lNUdJ01EKDHjCkR5P7F0pz523E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$" />
-    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
-    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
-    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
-    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="compresor_huffman" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/compresor_huffman.xml" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="MainWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -51,95 +63,62 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="86c56056-5492-4625-a3dc-ea41e298deb4" name="Default Changelist" comment="" />
-      <created>1607427718265</created>
+      <changelist id="9b8efd5b-489a-4bf6-9a51-a94b4ef4bf25" name="Default Changelist" comment="" />
+      <created>1607437128137</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607427718265</updated>
+      <updated>1607437128137</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="680" y="389" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607436484302">
+    <state x="659" y="321" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607437706546">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="680" y="389" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1607436484302" />
-    <state x="659" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607436204855">
+    <state x="659" y="321" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1607437706546" />
+    <state x="709" y="294" key="FileChooserDialogImpl" timestamp="1607437723177">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="659" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1607436204855" />
-    <state x="684" y="242" key="#xdebugger.evaluate" timestamp="1607433756631">
+    <state x="709" y="294" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1607437723177" />
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1607437765246">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="684" y="242" key="#xdebugger.evaluate/0.0.1858.1080@0.0.1858.1080" timestamp="1607433756631" />
-    <state x="687" y="287" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1607434997029">
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1607437765246" />
+    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1607437765246">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="687" y="287" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1858.1080@0.0.1858.1080" timestamp="1607434997029" />
-    <state x="709" y="281" key="FileChooserDialogImpl" timestamp="1607436226744">
+    <state width="1815" height="295" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1607437765246" />
+    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1607437765246">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="709" y="281" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1607436226744" />
-    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1607436560197">
+    <state width="1815" height="295" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1607437765246" />
+    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1607437765246">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1607436560197" />
-    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1607436560197">
+    <state width="1815" height="295" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1607437765246" />
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1607437741404">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1607436560197" />
-    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1607436560197">
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1607437741404" />
+    <state width="1815" height="364" key="GridCell.Tab.1.center" timestamp="1607437741404">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1607436560197" />
-    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1607436560197">
+    <state width="1815" height="364" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1607437741404" />
+    <state width="1815" height="364" key="GridCell.Tab.1.left" timestamp="1607437741403">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1607436560197" />
-    <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1607436163275">
+    <state width="1815" height="364" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1607437741403" />
+    <state width="1815" height="364" key="GridCell.Tab.1.right" timestamp="1607437741404">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="364" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1607436163275" />
-    <state width="1815" height="364" key="GridCell.Tab.1.center" timestamp="1607436163275">
+    <state width="1815" height="364" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1607437741404" />
+    <state x="409" y="114" key="SettingsEditor" timestamp="1607437727507">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="364" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1607436163275" />
-    <state width="1815" height="364" key="GridCell.Tab.1.left" timestamp="1607436163275">
+    <state x="409" y="114" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1607437727507" />
+    <state x="625" y="272" width="737" height="606" key="find.popup" timestamp="1607437292573">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="364" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1607436163275" />
-    <state width="1815" height="364" key="GridCell.Tab.1.right" timestamp="1607436163275">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state width="1815" height="364" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1607436163275" />
-    <state x="430" y="182" key="SettingsEditor" timestamp="1607436544664">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="430" y="182" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1607436544664" />
-    <state x="625" y="272" width="737" height="606" key="find.popup" timestamp="1607427872895">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="625" y="272" width="737" height="606" key="find.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1607427872895" />
-    <state x="311" y="160" key="new project wizard" timestamp="1607435015712">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="311" y="160" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1607435015712" />
-    <state x="585" y="250" key="run.anything.popup" timestamp="1607436338045">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="585" y="250" key="run.anything.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1607436338045" />
-    <state x="797" y="436" key="save.project.as.template.dialog" timestamp="1607435006495">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="797" y="436" key="save.project.as.template.dialog/0.0.1858.1080@0.0.1858.1080" timestamp="1607435006495" />
-    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1607436352403">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1607436352403" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Compresor_Huffman$MainWindow.ic" NAME="MainWindow Coverage Results" MODIFIED="1607433103816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>View.*</FILTER>
-    </SUITE>
+    <state x="625" y="272" width="737" height="606" key="find.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1607437292573" />
   </component>
 </project>

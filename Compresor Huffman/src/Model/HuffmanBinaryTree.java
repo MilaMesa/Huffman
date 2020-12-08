@@ -6,7 +6,7 @@ import java.util.Collections;
 
 /**
  *
- * @author María Camila Caicedo Mesa CC:1037656070
+ * @author María Camila Caicedo Mesa
  */
 public class HuffmanBinaryTree {
 

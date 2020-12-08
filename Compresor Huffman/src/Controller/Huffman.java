@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 /**
- * @author María Camila Caicedo Mesa CC:1037656070
+ * @author María Camila Caicedo Mesa
  */
 public class Huffman {
 

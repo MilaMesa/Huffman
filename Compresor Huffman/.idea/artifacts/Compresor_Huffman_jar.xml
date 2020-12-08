@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Compresor Huffman:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Compresor_Huffman_jar</output-path>
+    <root id="archive" name="Compresor Huffman.jar">
+      <element id="module-output" name="Compresor Huffman" />
+    </root>
+  </artifact>
+</component>

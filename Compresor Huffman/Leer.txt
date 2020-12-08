@@ -1,0 +1,1 @@
+Para correr el proyecto se debe tener instalado JDK 1.8.0_111
